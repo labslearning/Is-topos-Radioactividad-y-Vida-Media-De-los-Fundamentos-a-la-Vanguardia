@@ -1,0 +1,6 @@
+{
+  "name": "QUANTUM-CORE AI: Atomic Physics & Quantum Simulator",
+  "description": "Elite multilingual educational simulator for atomic physics, isotopes, radioactivity half-life decay, and quantum-electronic configurations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
